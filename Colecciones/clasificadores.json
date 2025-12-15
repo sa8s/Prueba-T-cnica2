@@ -1,0 +1,234 @@
+[{
+  "_id": {
+    "$oid": "651a1b2c3d4e5f0011223344"
+  },
+  "rootId": {
+    "$oid": "651a1b2c3d4e5f0011223344"
+  },
+  "parentId": null,
+  "name": "Tipo de Problema",
+  "path": [
+    "Tipo de Problema"
+  ],
+  "level": 0,
+  "isActive": true,
+  "hijos": [
+    {
+      "$oid": "651a1b2c3d4e5f0011223345"
+    },
+    {
+      "$oid": "651a1b2c3d4e5f0011223348"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "651a1b2c3d4e5f0011223345"
+  },
+  "rootId": {
+    "$oid": "651a1b2c3d4e5f0011223344"
+  },
+  "parentId": {
+    "$oid": "651a1b2c3d4e5f0011223344"
+  },
+  "name": "Software",
+  "path": [
+    "Tipo de Problema",
+    "Software"
+  ],
+  "level": 1,
+  "isActive": true,
+  "hijos": [
+    {
+      "$oid": "651a1b2c3d4e5f0011223346"
+    },
+    {
+      "$oid": "651a1b2c3d4e5f0011223347"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "651a1b2c3d4e5f0011223346"
+  },
+  "rootId": {
+    "$oid": "651a1b2c3d4e5f0011223344"
+  },
+  "parentId": {
+    "$oid": "651a1b2c3d4e5f0011223345"
+  },
+  "name": "Bug",
+  "path": [
+    "Tipo de Problema",
+    "Software",
+    "Bug"
+  ],
+  "level": 2,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "651a1b2c3d4e5f0011223347"
+  },
+  "rootId": {
+    "$oid": "651a1b2c3d4e5f0011223344"
+  },
+  "parentId": {
+    "$oid": "651a1b2c3d4e5f0011223345"
+  },
+  "name": "Mejora",
+  "path": [
+    "Tipo de Problema",
+    "Software",
+    "Mejora"
+  ],
+  "level": 2,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "651a1b2c3d4e5f0011223348"
+  },
+  "rootId": {
+    "$oid": "651a1b2c3d4e5f0011223344"
+  },
+  "parentId": {
+    "$oid": "651a1b2c3d4e5f0011223344"
+  },
+  "name": "Hardware",
+  "path": [
+    "Tipo de Problema",
+    "Hardware"
+  ],
+  "level": 1,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "751a1b2c3d4e5f0011223344"
+  },
+  "rootId": {
+    "$oid": "751a1b2c3d4e5f0011223344"
+  },
+  "parentId": null,
+  "name": "Prioridad",
+  "path": [
+    "Prioridad"
+  ],
+  "level": 0,
+  "isActive": true,
+  "hijos": [
+    "751a1b2c3d4e5f0011223345",
+    "751a1b2c3d4e5f0011223346",
+    "751a1b2c3d4e5f0011223347"
+  ]
+},
+{
+  "_id": {
+    "$oid": "751a1b2c3d4e5f0011223345"
+  },
+  "rootId": {
+    "$oid": "751a1b2c3d4e5f0011223344"
+  },
+  "parentId": {
+    "$oid": "751a1b2c3d4e5f0011223344"
+  },
+  "name": "Alta",
+  "path": [
+    "Prioridad",
+    "Alta"
+  ],
+  "level": 1,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "751a1b2c3d4e5f0011223346"
+  },
+  "rootId": {
+    "$oid": "751a1b2c3d4e5f0011223344"
+  },
+  "parentId": {
+    "$oid": "751a1b2c3d4e5f0011223344"
+  },
+  "name": "Media",
+  "path": [
+    "Prioridad",
+    "Media"
+  ],
+  "level": 1,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "751a1b2c3d4e5f0011223347"
+  },
+  "rootId": {
+    "$oid": "751a1b2c3d4e5f0011223344"
+  },
+  "parentId": {
+    "$oid": "751a1b2c3d4e5f0011223344"
+  },
+  "name": "Baja",
+  "path": [
+    "Prioridad",
+    "Baja"
+  ],
+  "level": 1,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "851a1b2c3d4e5f0011223344"
+  },
+  "rootId": {
+    "$oid": "851a1b2c3d4e5f0011223344"
+  },
+  "parentId": null,
+  "name": "Departamento",
+  "path": [
+    "Departamento"
+  ],
+  "level": 0,
+  "isActive": true,
+  "hijos": [
+    "851a1b2c3d4e5f0011223345",
+    "851a1b2c3d4e5f0011223346"
+  ]
+},
+{
+  "_id": {
+    "$oid": "851a1b2c3d4e5f0011223345"
+  },
+  "rootId": {
+    "$oid": "851a1b2c3d4e5f0011223344"
+  },
+  "parentId": {
+    "$oid": "851a1b2c3d4e5f0011223344"
+  },
+  "name": "Ventas",
+  "path": [
+    "Departamento",
+    "Ventas"
+  ],
+  "level": 1,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "851a1b2c3d4e5f0011223346"
+  },
+  "rootId": {
+    "$oid": "851a1b2c3d4e5f0011223344"
+  },
+  "parentId": {
+    "$oid": "851a1b2c3d4e5f0011223344"
+  },
+  "name": "Soporte",
+  "path": [
+    "Departamento",
+    "Soporte"
+  ],
+  "level": 1,
+  "isActive": true
+}]

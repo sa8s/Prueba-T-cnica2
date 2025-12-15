@@ -1,0 +1,1095 @@
+[{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f33"
+  },
+  "Codigoticket": "TKT-2024-001",
+  "estado": "rejected",
+  "Asignaciones": [],
+  "Clasificaciones": [
+    {
+      "rootId": {
+        "$oid": "651a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "651a1b2c3d4e5f0011223347"
+      },
+      "rootName": "Tipo de Problema",
+      "nodePath": [
+        {
+          "$oid": "651a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223345"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223347"
+        }
+      ]
+    },
+    {
+      "rootId": {
+        "$oid": "751a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "751a1b2c3d4e5f0011223346"
+      },
+      "rootName": "Prioridad",
+      "nodePath": [
+        {
+          "$oid": "751a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "751a1b2c3d4e5f0011223346"
+        }
+      ]
+    }
+  ],
+  "Creado_en": {
+    "$date": "2025-07-31T11:09:58.372Z"
+  },
+  "Ultima_actualizacion": {
+    "$date": "2025-10-22T12:14:19.842Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f34"
+  },
+  "Codigoticket": "TKT-2024-002",
+  "estado": "rejected",
+  "Asignaciones": [
+    {
+      "$oid": "a01b2c3d4e5f607890123456"
+    }
+  ],
+  "Clasificaciones": [
+    {
+      "rootId": {
+        "$oid": "651a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "651a1b2c3d4e5f0011223347"
+      },
+      "rootName": "Tipo de Problema",
+      "nodePath": [
+        {
+          "$oid": "651a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223345"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223347"
+        }
+      ]
+    }
+  ],
+  "Creado_en": {
+    "$date": "2024-01-24T15:17:26.447Z"
+  },
+  "Ultima_actualizacion": {
+    "$date": "2024-08-25T13:48:38.797Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f35"
+  },
+  "Codigoticket": "TKT-2024-003",
+  "estado": "open",
+  "Asignaciones": [
+    {
+      "$oid": "c01b2c3d4e5f607890123458"
+    }
+  ],
+  "Clasificaciones": [
+    {
+      "rootId": {
+        "$oid": "651a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "651a1b2c3d4e5f0011223347"
+      },
+      "rootName": "Tipo de Problema",
+      "nodePath": [
+        {
+          "$oid": "651a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223345"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223347"
+        }
+      ]
+    },
+    {
+      "rootId": {
+        "$oid": "751a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "751a1b2c3d4e5f0011223346"
+      },
+      "rootName": "Prioridad",
+      "nodePath": [
+        {
+          "$oid": "751a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "751a1b2c3d4e5f0011223346"
+        }
+      ]
+    }
+  ],
+  "Creado_en": {
+    "$date": "2024-02-21T02:08:41.986Z"
+  },
+  "Ultima_actualizacion": {
+    "$date": "2025-07-27T12:38:37.630Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f36"
+  },
+  "Codigoticket": "TKT-2024-004",
+  "estado": "closed",
+  "Asignaciones": [
+    {
+      "$oid": "a01b2c3d4e5f607890123456"
+    }
+  ],
+  "Clasificaciones": [
+    {
+      "rootId": {
+        "$oid": "651a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "651a1b2c3d4e5f0011223346"
+      },
+      "rootName": "Tipo de Problema",
+      "nodePath": [
+        {
+          "$oid": "651a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223345"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223346"
+        }
+      ]
+    },
+    {
+      "rootId": {
+        "$oid": "751a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "751a1b2c3d4e5f0011223347"
+      },
+      "rootName": "Prioridad",
+      "nodePath": [
+        {
+          "$oid": "751a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "751a1b2c3d4e5f0011223347"
+        }
+      ]
+    }
+  ],
+  "Creado_en": {
+    "$date": "2025-08-01T06:37:06.832Z"
+  },
+  "Ultima_actualizacion": {
+    "$date": "2025-12-02T01:48:37.472Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f37"
+  },
+  "Codigoticket": "TKT-2024-005",
+  "estado": "in_progress",
+  "Asignaciones": [
+    {
+      "$oid": "a01b2c3d4e5f607890123456"
+    }
+  ],
+  "Clasificaciones": [
+    {
+      "rootId": {
+        "$oid": "651a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "651a1b2c3d4e5f0011223346"
+      },
+      "rootName": "Tipo de Problema",
+      "nodePath": [
+        {
+          "$oid": "651a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223345"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223346"
+        }
+      ]
+    },
+    {
+      "rootId": {
+        "$oid": "751a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "751a1b2c3d4e5f0011223346"
+      },
+      "rootName": "Prioridad",
+      "nodePath": [
+        {
+          "$oid": "751a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "751a1b2c3d4e5f0011223346"
+        }
+      ]
+    }
+  ],
+  "Creado_en": {
+    "$date": "2025-12-10T11:22:19.043Z"
+  },
+  "Ultima_actualizacion": {
+    "$date": "2025-12-10T20:24:01.430Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f38"
+  },
+  "Codigoticket": "TKT-2024-006",
+  "estado": "open",
+  "Asignaciones": [],
+  "Clasificaciones": [
+    {
+      "rootId": {
+        "$oid": "651a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "651a1b2c3d4e5f0011223347"
+      },
+      "rootName": "Tipo de Problema",
+      "nodePath": [
+        {
+          "$oid": "651a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223345"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223347"
+        }
+      ]
+    },
+    {
+      "rootId": {
+        "$oid": "751a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "751a1b2c3d4e5f0011223346"
+      },
+      "rootName": "Prioridad",
+      "nodePath": [
+        {
+          "$oid": "751a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "751a1b2c3d4e5f0011223346"
+        }
+      ]
+    }
+  ],
+  "Creado_en": {
+    "$date": "2024-02-08T00:05:13.246Z"
+  },
+  "Ultima_actualizacion": {
+    "$date": "2025-03-26T15:23:24.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f39"
+  },
+  "Codigoticket": "TKT-2024-007",
+  "estado": "closed",
+  "Asignaciones": [],
+  "Clasificaciones": [
+    {
+      "rootId": {
+        "$oid": "651a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "651a1b2c3d4e5f0011223346"
+      },
+      "rootName": "Tipo de Problema",
+      "nodePath": [
+        {
+          "$oid": "651a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223345"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223346"
+        }
+      ]
+    },
+    {
+      "rootId": {
+        "$oid": "751a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "751a1b2c3d4e5f0011223346"
+      },
+      "rootName": "Prioridad",
+      "nodePath": [
+        {
+          "$oid": "751a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "751a1b2c3d4e5f0011223346"
+        }
+      ]
+    }
+  ],
+  "Creado_en": {
+    "$date": "2025-04-05T23:44:32.044Z"
+  },
+  "Ultima_actualizacion": {
+    "$date": "2025-08-22T11:59:02.377Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f3a"
+  },
+  "Codigoticket": "TKT-2024-008",
+  "estado": "closed",
+  "Asignaciones": [
+    {
+      "$oid": "d01b2c3d4e5f607890123459"
+    }
+  ],
+  "Clasificaciones": [
+    {
+      "rootId": {
+        "$oid": "651a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "651a1b2c3d4e5f0011223346"
+      },
+      "rootName": "Tipo de Problema",
+      "nodePath": [
+        {
+          "$oid": "651a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223345"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223346"
+        }
+      ]
+    },
+    {
+      "rootId": {
+        "$oid": "751a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "751a1b2c3d4e5f0011223345"
+      },
+      "rootName": "Prioridad",
+      "nodePath": [
+        {
+          "$oid": "751a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "751a1b2c3d4e5f0011223345"
+        }
+      ]
+    }
+  ],
+  "Creado_en": {
+    "$date": "2025-06-14T08:12:37.930Z"
+  },
+  "Ultima_actualizacion": {
+    "$date": "2025-06-17T06:03:32.095Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f3b"
+  },
+  "Codigoticket": "TKT-2024-009",
+  "estado": "in_progress",
+  "Asignaciones": [
+    {
+      "$oid": "c01b2c3d4e5f607890123458"
+    }
+  ],
+  "Clasificaciones": [
+    {
+      "rootId": {
+        "$oid": "651a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "651a1b2c3d4e5f0011223346"
+      },
+      "rootName": "Tipo de Problema",
+      "nodePath": [
+        {
+          "$oid": "651a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223345"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223346"
+        }
+      ]
+    },
+    {
+      "rootId": {
+        "$oid": "751a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "751a1b2c3d4e5f0011223345"
+      },
+      "rootName": "Prioridad",
+      "nodePath": [
+        {
+          "$oid": "751a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "751a1b2c3d4e5f0011223345"
+        }
+      ]
+    }
+  ],
+  "Creado_en": {
+    "$date": "2024-04-14T07:11:04.128Z"
+  },
+  "Ultima_actualizacion": {
+    "$date": "2025-07-12T07:43:37.716Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f3c"
+  },
+  "Codigoticket": "TKT-2024-010",
+  "estado": "open",
+  "Asignaciones": [
+    {
+      "$oid": "c01b2c3d4e5f607890123458"
+    }
+  ],
+  "Clasificaciones": [
+    {
+      "rootId": {
+        "$oid": "651a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "651a1b2c3d4e5f0011223346"
+      },
+      "rootName": "Tipo de Problema",
+      "nodePath": [
+        {
+          "$oid": "651a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223345"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223346"
+        }
+      ]
+    },
+    {
+      "rootId": {
+        "$oid": "751a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "751a1b2c3d4e5f0011223345"
+      },
+      "rootName": "Prioridad",
+      "nodePath": [
+        {
+          "$oid": "751a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "751a1b2c3d4e5f0011223345"
+        }
+      ]
+    }
+  ],
+  "Creado_en": {
+    "$date": "2025-08-09T16:11:03.070Z"
+  },
+  "Ultima_actualizacion": {
+    "$date": "2025-11-10T22:32:08.835Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f3d"
+  },
+  "Codigoticket": "TKT-2024-011",
+  "estado": "open",
+  "Asignaciones": [],
+  "Clasificaciones": [
+    {
+      "rootId": {
+        "$oid": "651a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "651a1b2c3d4e5f0011223346"
+      },
+      "rootName": "Tipo de Problema",
+      "nodePath": [
+        {
+          "$oid": "651a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223345"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223346"
+        }
+      ]
+    },
+    {
+      "rootId": {
+        "$oid": "751a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "751a1b2c3d4e5f0011223346"
+      },
+      "rootName": "Prioridad",
+      "nodePath": [
+        {
+          "$oid": "751a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "751a1b2c3d4e5f0011223346"
+        }
+      ]
+    }
+  ],
+  "Creado_en": {
+    "$date": "2024-06-27T14:38:55.775Z"
+  },
+  "Ultima_actualizacion": {
+    "$date": "2025-01-22T20:58:25.634Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f3e"
+  },
+  "Codigoticket": "TKT-2024-012",
+  "estado": "open",
+  "Asignaciones": [],
+  "Clasificaciones": [
+    {
+      "rootId": {
+        "$oid": "651a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "651a1b2c3d4e5f0011223346"
+      },
+      "rootName": "Tipo de Problema",
+      "nodePath": [
+        {
+          "$oid": "651a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223345"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223346"
+        }
+      ]
+    },
+    {
+      "rootId": {
+        "$oid": "751a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "751a1b2c3d4e5f0011223345"
+      },
+      "rootName": "Prioridad",
+      "nodePath": [
+        {
+          "$oid": "751a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "751a1b2c3d4e5f0011223345"
+        }
+      ]
+    }
+  ],
+  "Creado_en": {
+    "$date": "2024-11-16T08:52:07.048Z"
+  },
+  "Ultima_actualizacion": {
+    "$date": "2025-06-07T09:26:37.630Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f3f"
+  },
+  "Codigoticket": "TKT-2024-013",
+  "estado": "closed",
+  "Asignaciones": [],
+  "Clasificaciones": [
+    {
+      "rootId": {
+        "$oid": "651a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "651a1b2c3d4e5f0011223346"
+      },
+      "rootName": "Tipo de Problema",
+      "nodePath": [
+        {
+          "$oid": "651a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223345"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223346"
+        }
+      ]
+    },
+    {
+      "rootId": {
+        "$oid": "751a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "751a1b2c3d4e5f0011223347"
+      },
+      "rootName": "Prioridad",
+      "nodePath": [
+        {
+          "$oid": "751a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "751a1b2c3d4e5f0011223347"
+        }
+      ]
+    }
+  ],
+  "Creado_en": {
+    "$date": "2024-07-06T08:50:23.663Z"
+  },
+  "Ultima_actualizacion": {
+    "$date": "2024-11-30T08:55:12.241Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f40"
+  },
+  "Codigoticket": "TKT-2024-014",
+  "estado": "closed",
+  "Asignaciones": [],
+  "Clasificaciones": [
+    {
+      "rootId": {
+        "$oid": "651a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "651a1b2c3d4e5f0011223347"
+      },
+      "rootName": "Tipo de Problema",
+      "nodePath": [
+        {
+          "$oid": "651a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223345"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223347"
+        }
+      ]
+    },
+    {
+      "rootId": {
+        "$oid": "751a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "751a1b2c3d4e5f0011223347"
+      },
+      "rootName": "Prioridad",
+      "nodePath": [
+        {
+          "$oid": "751a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "751a1b2c3d4e5f0011223347"
+        }
+      ]
+    }
+  ],
+  "Creado_en": {
+    "$date": "2024-10-11T09:59:25.093Z"
+  },
+  "Ultima_actualizacion": {
+    "$date": "2025-03-11T02:01:46.190Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f41"
+  },
+  "Codigoticket": "TKT-2024-015",
+  "estado": "rejected",
+  "Asignaciones": [
+    {
+      "$oid": "d01b2c3d4e5f607890123459"
+    }
+  ],
+  "Clasificaciones": [
+    {
+      "rootId": {
+        "$oid": "651a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "651a1b2c3d4e5f0011223347"
+      },
+      "rootName": "Tipo de Problema",
+      "nodePath": [
+        {
+          "$oid": "651a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223345"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223347"
+        }
+      ]
+    },
+    {
+      "rootId": {
+        "$oid": "751a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "751a1b2c3d4e5f0011223347"
+      },
+      "rootName": "Prioridad",
+      "nodePath": [
+        {
+          "$oid": "751a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "751a1b2c3d4e5f0011223347"
+        }
+      ]
+    }
+  ],
+  "Creado_en": {
+    "$date": "2024-06-08T11:17:43.284Z"
+  },
+  "Ultima_actualizacion": {
+    "$date": "2025-02-20T10:19:56.706Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f42"
+  },
+  "Codigoticket": "TKT-2024-016",
+  "estado": "closed",
+  "Asignaciones": [
+    {
+      "$oid": "b01b2c3d4e5f607890123457"
+    }
+  ],
+  "Clasificaciones": [
+    {
+      "rootId": {
+        "$oid": "651a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "651a1b2c3d4e5f0011223347"
+      },
+      "rootName": "Tipo de Problema",
+      "nodePath": [
+        {
+          "$oid": "651a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223345"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223347"
+        }
+      ]
+    },
+    {
+      "rootId": {
+        "$oid": "751a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "751a1b2c3d4e5f0011223345"
+      },
+      "rootName": "Prioridad",
+      "nodePath": [
+        {
+          "$oid": "751a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "751a1b2c3d4e5f0011223345"
+        }
+      ]
+    }
+  ],
+  "Creado_en": {
+    "$date": "2025-06-13T09:49:28.449Z"
+  },
+  "Ultima_actualizacion": {
+    "$date": "2025-08-01T15:34:31.059Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f43"
+  },
+  "Codigoticket": "TKT-2024-017",
+  "estado": "closed",
+  "Asignaciones": [
+    {
+      "$oid": "a01b2c3d4e5f607890123456"
+    }
+  ],
+  "Clasificaciones": [
+    {
+      "rootId": {
+        "$oid": "651a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "651a1b2c3d4e5f0011223346"
+      },
+      "rootName": "Tipo de Problema",
+      "nodePath": [
+        {
+          "$oid": "651a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223345"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223346"
+        }
+      ]
+    },
+    {
+      "rootId": {
+        "$oid": "751a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "751a1b2c3d4e5f0011223345"
+      },
+      "rootName": "Prioridad",
+      "nodePath": [
+        {
+          "$oid": "751a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "751a1b2c3d4e5f0011223345"
+        }
+      ]
+    }
+  ],
+  "Creado_en": {
+    "$date": "2025-01-16T13:15:37.194Z"
+  },
+  "Ultima_actualizacion": {
+    "$date": "2025-04-03T01:15:12.860Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f44"
+  },
+  "Codigoticket": "TKT-2024-018",
+  "estado": "in_progress",
+  "Asignaciones": [
+    {
+      "$oid": "b01b2c3d4e5f607890123457"
+    }
+  ],
+  "Clasificaciones": [
+    {
+      "rootId": {
+        "$oid": "651a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "651a1b2c3d4e5f0011223346"
+      },
+      "rootName": "Tipo de Problema",
+      "nodePath": [
+        {
+          "$oid": "651a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223345"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223346"
+        }
+      ]
+    },
+    {
+      "rootId": {
+        "$oid": "751a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "751a1b2c3d4e5f0011223345"
+      },
+      "rootName": "Prioridad",
+      "nodePath": [
+        {
+          "$oid": "751a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "751a1b2c3d4e5f0011223345"
+        }
+      ]
+    }
+  ],
+  "Creado_en": {
+    "$date": "2024-12-23T09:05:05.379Z"
+  },
+  "Ultima_actualizacion": {
+    "$date": "2025-04-20T22:38:29.622Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f45"
+  },
+  "Codigoticket": "TKT-2024-019",
+  "estado": "in_progress",
+  "Asignaciones": [
+    {
+      "$oid": "a01b2c3d4e5f607890123456"
+    }
+  ],
+  "Clasificaciones": [
+    {
+      "rootId": {
+        "$oid": "651a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "651a1b2c3d4e5f0011223347"
+      },
+      "rootName": "Tipo de Problema",
+      "nodePath": [
+        {
+          "$oid": "651a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223345"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223347"
+        }
+      ]
+    },
+    {
+      "rootId": {
+        "$oid": "751a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "751a1b2c3d4e5f0011223345"
+      },
+      "rootName": "Prioridad",
+      "nodePath": [
+        {
+          "$oid": "751a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "751a1b2c3d4e5f0011223345"
+        }
+      ]
+    }
+  ],
+  "Creado_en": {
+    "$date": "2024-04-01T23:29:31.948Z"
+  },
+  "Ultima_actualizacion": {
+    "$date": "2025-01-27T00:09:05.386Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f46"
+  },
+  "Codigoticket": "TKT-2024-020",
+  "estado": "rejected",
+  "Asignaciones": [
+    {
+      "$oid": "c01b2c3d4e5f607890123458"
+    }
+  ],
+  "Clasificaciones": [
+    {
+      "rootId": {
+        "$oid": "651a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "651a1b2c3d4e5f0011223346"
+      },
+      "rootName": "Tipo de Problema",
+      "nodePath": [
+        {
+          "$oid": "651a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223345"
+        },
+        {
+          "$oid": "651a1b2c3d4e5f0011223346"
+        }
+      ]
+    },
+    {
+      "rootId": {
+        "$oid": "751a1b2c3d4e5f0011223344"
+      },
+      "nodeId": {
+        "$oid": "751a1b2c3d4e5f0011223346"
+      },
+      "rootName": "Prioridad",
+      "nodePath": [
+        {
+          "$oid": "751a1b2c3d4e5f0011223344"
+        },
+        {
+          "$oid": "751a1b2c3d4e5f0011223346"
+        }
+      ]
+    }
+  ],
+  "Creado_en": {
+    "$date": "2024-10-30T22:31:07.993Z"
+  },
+  "Ultima_actualizacion": {
+    "$date": "2024-11-08T11:40:14.190Z"
+  }
+}]

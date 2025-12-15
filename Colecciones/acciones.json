@@ -1,0 +1,1917 @@
+[{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f47"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f33"
+  },
+  "actionType": "creation",
+  "actionDetails": {
+    "from": null,
+    "to": "open",
+    "userId": {
+      "$oid": "b01b2c3d4e5f607890123457"
+    },
+    "commentText": "Ticket creado automáticamente"
+  },
+  "timestamp": {
+    "$date": "2025-07-31T11:09:58.372Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f49"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f33"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "open",
+    "to": "in_progress",
+    "userId": {
+      "$oid": "c01b2c3d4e5f607890123458"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-09-13T13:04:32.439Z"
+  },
+  "metadata": {
+    "isReopen": false
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f4a"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f33"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "in_progress",
+    "to": "rejected",
+    "userId": {
+      "$oid": "d01b2c3d4e5f607890123459"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-09-15T21:32:05.625Z"
+  },
+  "metadata": {
+    "isReopen": false
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f4b"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f34"
+  },
+  "actionType": "creation",
+  "actionDetails": {
+    "from": null,
+    "to": "open",
+    "userId": {
+      "$oid": "b01b2c3d4e5f607890123457"
+    },
+    "commentText": "Ticket creado automáticamente"
+  },
+  "timestamp": {
+    "$date": "2024-01-24T15:17:26.447Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f4d"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f34"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "open",
+    "to": "in_progress",
+    "userId": {
+      "$oid": "b01b2c3d4e5f607890123457"
+    }
+  },
+  "timestamp": {
+    "$date": "2024-08-07T03:53:08.586Z"
+  },
+  "metadata": {
+    "isReopen": false
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f4e"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f34"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "in_progress",
+    "to": "rejected",
+    "userId": {
+      "$oid": "d01b2c3d4e5f607890123459"
+    }
+  },
+  "timestamp": {
+    "$date": "2024-08-21T19:14:11.696Z"
+  },
+  "metadata": {
+    "isReopen": false
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f4f"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f35"
+  },
+  "actionType": "creation",
+  "actionDetails": {
+    "from": null,
+    "to": "open",
+    "userId": {
+      "$oid": "a01b2c3d4e5f607890123456"
+    },
+    "commentText": "Ticket creado automáticamente"
+  },
+  "timestamp": {
+    "$date": "2024-02-21T02:08:41.986Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f50"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f35"
+  },
+  "actionType": "comment",
+  "actionDetails": {
+    "commentText": "Problema replicado en ambiente de testing",
+    "userId": {
+      "$oid": "c01b2c3d4e5f607890123458"
+    }
+  },
+  "timestamp": {
+    "$date": "2024-11-19T11:25:21.232Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f51"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f36"
+  },
+  "actionType": "creation",
+  "actionDetails": {
+    "from": null,
+    "to": "open",
+    "userId": {
+      "$oid": "c01b2c3d4e5f607890123458"
+    },
+    "commentText": "Ticket creado automáticamente"
+  },
+  "timestamp": {
+    "$date": "2025-08-01T06:37:06.832Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f53"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f36"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "open",
+    "to": "in_progress",
+    "userId": {
+      "$oid": "d01b2c3d4e5f607890123459"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-11-21T10:03:24.434Z"
+  },
+  "metadata": {
+    "isReopen": false
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f54"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f36"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "in_progress",
+    "to": "closed",
+    "userId": {
+      "$oid": "a01b2c3d4e5f607890123456"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-11-27T01:49:50.751Z"
+  },
+  "metadata": {
+    "isReopen": false
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f55"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f36"
+  },
+  "actionType": "comment",
+  "actionDetails": {
+    "commentText": "Problema replicado en ambiente de testing",
+    "userId": {
+      "$oid": "b01b2c3d4e5f607890123457"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-09-05T15:22:28.116Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f56"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f36"
+  },
+  "actionType": "assignment",
+  "actionDetails": {
+    "from": [],
+    "to": [
+      {
+        "$oid": "a01b2c3d4e5f607890123456"
+      }
+    ],
+    "userId": {
+      "$oid": "c01b2c3d4e5f607890123458"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-08-13T14:43:40.589Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f57"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f37"
+  },
+  "actionType": "creation",
+  "actionDetails": {
+    "from": null,
+    "to": "open",
+    "userId": {
+      "$oid": "c01b2c3d4e5f607890123458"
+    },
+    "commentText": "Ticket creado automáticamente"
+  },
+  "timestamp": {
+    "$date": "2025-12-10T11:22:19.043Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f59"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f37"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "open",
+    "to": "in_progress",
+    "userId": {
+      "$oid": "c01b2c3d4e5f607890123458"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-12-10T19:51:04.113Z"
+  },
+  "metadata": {
+    "isReopen": false
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f5a"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f38"
+  },
+  "actionType": "creation",
+  "actionDetails": {
+    "from": null,
+    "to": "open",
+    "userId": {
+      "$oid": "a01b2c3d4e5f607890123456"
+    },
+    "commentText": "Ticket creado automáticamente"
+  },
+  "timestamp": {
+    "$date": "2024-02-08T00:05:13.246Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f5b"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f38"
+  },
+  "actionType": "comment",
+  "actionDetails": {
+    "commentText": "Solución aplicada, verificar funcionamiento",
+    "userId": {
+      "$oid": "a01b2c3d4e5f607890123456"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-03-11T16:38:17.131Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f5c"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f38"
+  },
+  "actionType": "comment",
+  "actionDetails": {
+    "commentText": "El usuario reporta error al cargar página",
+    "userId": {
+      "$oid": "b01b2c3d4e5f607890123457"
+    }
+  },
+  "timestamp": {
+    "$date": "2024-08-30T23:20:21.695Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f5d"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f39"
+  },
+  "actionType": "creation",
+  "actionDetails": {
+    "from": null,
+    "to": "open",
+    "userId": {
+      "$oid": "c01b2c3d4e5f607890123458"
+    },
+    "commentText": "Ticket creado automáticamente"
+  },
+  "timestamp": {
+    "$date": "2025-04-05T23:44:32.044Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f5f"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f39"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "open",
+    "to": "in_progress",
+    "userId": {
+      "$oid": "b01b2c3d4e5f607890123457"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-08-06T01:41:49.234Z"
+  },
+  "metadata": {
+    "isReopen": false
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f60"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f39"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "in_progress",
+    "to": "closed",
+    "userId": {
+      "$oid": "a01b2c3d4e5f607890123456"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-08-08T18:53:45.956Z"
+  },
+  "metadata": {
+    "isReopen": false
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f61"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f3a"
+  },
+  "actionType": "creation",
+  "actionDetails": {
+    "from": null,
+    "to": "open",
+    "userId": {
+      "$oid": "a01b2c3d4e5f607890123456"
+    },
+    "commentText": "Ticket creado automáticamente"
+  },
+  "timestamp": {
+    "$date": "2025-06-14T08:12:37.930Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f63"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f3a"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "open",
+    "to": "in_progress",
+    "userId": {
+      "$oid": "d01b2c3d4e5f607890123459"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-06-17T04:48:28.022Z"
+  },
+  "metadata": {
+    "isReopen": false
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f64"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f3a"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "in_progress",
+    "to": "closed",
+    "userId": {
+      "$oid": "a01b2c3d4e5f607890123456"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-06-17T06:02:15.967Z"
+  },
+  "metadata": {
+    "isReopen": false
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f65"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f3a"
+  },
+  "actionType": "comment",
+  "actionDetails": {
+    "commentText": "Solución aplicada, verificar funcionamiento",
+    "userId": {
+      "$oid": "d01b2c3d4e5f607890123459"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-06-16T23:53:06.742Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f66"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f3a"
+  },
+  "actionType": "comment",
+  "actionDetails": {
+    "commentText": "Solución aplicada, verificar funcionamiento",
+    "userId": {
+      "$oid": "c01b2c3d4e5f607890123458"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-06-15T20:59:13.842Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f67"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f3b"
+  },
+  "actionType": "creation",
+  "actionDetails": {
+    "from": null,
+    "to": "open",
+    "userId": {
+      "$oid": "b01b2c3d4e5f607890123457"
+    },
+    "commentText": "Ticket creado automáticamente"
+  },
+  "timestamp": {
+    "$date": "2024-04-14T07:11:04.128Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f69"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f3b"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "open",
+    "to": "in_progress",
+    "userId": {
+      "$oid": "a01b2c3d4e5f607890123456"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-07-04T12:31:55.738Z"
+  },
+  "metadata": {
+    "isReopen": false
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f6a"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f3b"
+  },
+  "actionType": "assignment",
+  "actionDetails": {
+    "from": [],
+    "to": [
+      {
+        "$oid": "d01b2c3d4e5f607890123459"
+      }
+    ],
+    "userId": {
+      "$oid": "d01b2c3d4e5f607890123459"
+    }
+  },
+  "timestamp": {
+    "$date": "2024-06-27T11:58:26.510Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f6b"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f3c"
+  },
+  "actionType": "creation",
+  "actionDetails": {
+    "from": null,
+    "to": "open",
+    "userId": {
+      "$oid": "c01b2c3d4e5f607890123458"
+    },
+    "commentText": "Ticket creado automáticamente"
+  },
+  "timestamp": {
+    "$date": "2025-08-09T16:11:03.070Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f6c"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f3d"
+  },
+  "actionType": "creation",
+  "actionDetails": {
+    "from": null,
+    "to": "open",
+    "userId": {
+      "$oid": "b01b2c3d4e5f607890123457"
+    },
+    "commentText": "Ticket creado automáticamente"
+  },
+  "timestamp": {
+    "$date": "2024-06-27T14:38:55.775Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f6d"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f3d"
+  },
+  "actionType": "assignment",
+  "actionDetails": {
+    "from": [],
+    "to": [
+      {
+        "$oid": "a01b2c3d4e5f607890123456"
+      }
+    ],
+    "userId": {
+      "$oid": "d01b2c3d4e5f607890123459"
+    }
+  },
+  "timestamp": {
+    "$date": "2024-08-13T09:22:55.837Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f6e"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f3e"
+  },
+  "actionType": "creation",
+  "actionDetails": {
+    "from": null,
+    "to": "open",
+    "userId": {
+      "$oid": "d01b2c3d4e5f607890123459"
+    },
+    "commentText": "Ticket creado automáticamente"
+  },
+  "timestamp": {
+    "$date": "2024-11-16T08:52:07.048Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f6f"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f3e"
+  },
+  "actionType": "assignment",
+  "actionDetails": {
+    "from": [],
+    "to": [
+      {
+        "$oid": "b01b2c3d4e5f607890123457"
+      }
+    ],
+    "userId": {
+      "$oid": "a01b2c3d4e5f607890123456"
+    }
+  },
+  "timestamp": {
+    "$date": "2024-11-17T14:48:45.230Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f70"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f3f"
+  },
+  "actionType": "creation",
+  "actionDetails": {
+    "from": null,
+    "to": "open",
+    "userId": {
+      "$oid": "a01b2c3d4e5f607890123456"
+    },
+    "commentText": "Ticket creado automáticamente"
+  },
+  "timestamp": {
+    "$date": "2024-07-06T08:50:23.663Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f72"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f3f"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "open",
+    "to": "in_progress",
+    "userId": {
+      "$oid": "c01b2c3d4e5f607890123458"
+    }
+  },
+  "timestamp": {
+    "$date": "2024-11-29T05:18:27.575Z"
+  },
+  "metadata": {
+    "isReopen": false
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f73"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f3f"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "in_progress",
+    "to": "closed",
+    "userId": {
+      "$oid": "d01b2c3d4e5f607890123459"
+    }
+  },
+  "timestamp": {
+    "$date": "2024-11-29T07:19:32.031Z"
+  },
+  "metadata": {
+    "isReopen": false
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f74"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f3f"
+  },
+  "actionType": "comment",
+  "actionDetails": {
+    "commentText": "El usuario reporta error al cargar página",
+    "userId": {
+      "$oid": "d01b2c3d4e5f607890123459"
+    }
+  },
+  "timestamp": {
+    "$date": "2024-10-17T22:59:33.943Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f75"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f3f"
+  },
+  "actionType": "comment",
+  "actionDetails": {
+    "commentText": "El usuario reporta error al cargar página",
+    "userId": {
+      "$oid": "c01b2c3d4e5f607890123458"
+    }
+  },
+  "timestamp": {
+    "$date": "2024-08-27T08:05:18.974Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f76"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f40"
+  },
+  "actionType": "creation",
+  "actionDetails": {
+    "from": null,
+    "to": "open",
+    "userId": {
+      "$oid": "a01b2c3d4e5f607890123456"
+    },
+    "commentText": "Ticket creado automáticamente"
+  },
+  "timestamp": {
+    "$date": "2024-10-11T09:59:25.093Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f78"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f40"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "open",
+    "to": "in_progress",
+    "userId": {
+      "$oid": "c01b2c3d4e5f607890123458"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-03-10T15:27:51.700Z"
+  },
+  "metadata": {
+    "isReopen": false
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f79"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f40"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "in_progress",
+    "to": "closed",
+    "userId": {
+      "$oid": "b01b2c3d4e5f607890123457"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-03-10T21:37:46.648Z"
+  },
+  "metadata": {
+    "isReopen": false
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f7a"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f40"
+  },
+  "actionType": "comment",
+  "actionDetails": {
+    "commentText": "Problema replicado en ambiente de testing",
+    "userId": {
+      "$oid": "a01b2c3d4e5f607890123456"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-02-10T06:54:10.110Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f7b"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f40"
+  },
+  "actionType": "comment",
+  "actionDetails": {
+    "commentText": "Esperando respuesta del cliente",
+    "userId": {
+      "$oid": "d01b2c3d4e5f607890123459"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-01-17T10:54:14.559Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f7c"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f41"
+  },
+  "actionType": "creation",
+  "actionDetails": {
+    "from": null,
+    "to": "open",
+    "userId": {
+      "$oid": "a01b2c3d4e5f607890123456"
+    },
+    "commentText": "Ticket creado automáticamente"
+  },
+  "timestamp": {
+    "$date": "2024-06-08T11:17:43.284Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f7e"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f41"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "open",
+    "to": "in_progress",
+    "userId": {
+      "$oid": "c01b2c3d4e5f607890123458"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-01-18T10:41:50.083Z"
+  },
+  "metadata": {
+    "isReopen": false
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f7f"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f41"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "in_progress",
+    "to": "rejected",
+    "userId": {
+      "$oid": "d01b2c3d4e5f607890123459"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-01-30T18:44:55.224Z"
+  },
+  "metadata": {
+    "isReopen": false
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f80"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f41"
+  },
+  "actionType": "comment",
+  "actionDetails": {
+    "commentText": "Se necesita información adicional",
+    "userId": {
+      "$oid": "d01b2c3d4e5f607890123459"
+    }
+  },
+  "timestamp": {
+    "$date": "2024-12-30T21:59:50.591Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f81"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f41"
+  },
+  "actionType": "comment",
+  "actionDetails": {
+    "commentText": "Se necesita información adicional",
+    "userId": {
+      "$oid": "b01b2c3d4e5f607890123457"
+    }
+  },
+  "timestamp": {
+    "$date": "2024-08-06T10:55:27.686Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f82"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f41"
+  },
+  "actionType": "comment",
+  "actionDetails": {
+    "commentText": "Solución aplicada, verificar funcionamiento",
+    "userId": {
+      "$oid": "b01b2c3d4e5f607890123457"
+    }
+  },
+  "timestamp": {
+    "$date": "2024-08-11T19:11:30.344Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f83"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f41"
+  },
+  "actionType": "assignment",
+  "actionDetails": {
+    "from": [],
+    "to": [
+      {
+        "$oid": "b01b2c3d4e5f607890123457"
+      }
+    ],
+    "userId": {
+      "$oid": "a01b2c3d4e5f607890123456"
+    }
+  },
+  "timestamp": {
+    "$date": "2024-08-05T03:26:44.879Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f84"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f42"
+  },
+  "actionType": "creation",
+  "actionDetails": {
+    "from": null,
+    "to": "open",
+    "userId": {
+      "$oid": "a01b2c3d4e5f607890123456"
+    },
+    "commentText": "Ticket creado automáticamente"
+  },
+  "timestamp": {
+    "$date": "2025-06-13T09:49:28.449Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f86"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f42"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "open",
+    "to": "in_progress",
+    "userId": {
+      "$oid": "d01b2c3d4e5f607890123459"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-07-25T00:40:21.017Z"
+  },
+  "metadata": {
+    "isReopen": false
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f87"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f42"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "in_progress",
+    "to": "closed",
+    "userId": {
+      "$oid": "c01b2c3d4e5f607890123458"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-07-29T11:12:13.142Z"
+  },
+  "metadata": {
+    "isReopen": false
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f88"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f43"
+  },
+  "actionType": "creation",
+  "actionDetails": {
+    "from": null,
+    "to": "open",
+    "userId": {
+      "$oid": "d01b2c3d4e5f607890123459"
+    },
+    "commentText": "Ticket creado automáticamente"
+  },
+  "timestamp": {
+    "$date": "2025-01-16T13:15:37.194Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f8a"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f43"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "open",
+    "to": "in_progress",
+    "userId": {
+      "$oid": "d01b2c3d4e5f607890123459"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-03-09T04:41:15.059Z"
+  },
+  "metadata": {
+    "isReopen": false
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f8b"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f43"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "in_progress",
+    "to": "closed",
+    "userId": {
+      "$oid": "b01b2c3d4e5f607890123457"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-03-27T10:20:56.131Z"
+  },
+  "metadata": {
+    "isReopen": false
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f8c"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f44"
+  },
+  "actionType": "creation",
+  "actionDetails": {
+    "from": null,
+    "to": "open",
+    "userId": {
+      "$oid": "d01b2c3d4e5f607890123459"
+    },
+    "commentText": "Ticket creado automáticamente"
+  },
+  "timestamp": {
+    "$date": "2024-12-23T09:05:05.379Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f8e"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f44"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "open",
+    "to": "in_progress",
+    "userId": {
+      "$oid": "d01b2c3d4e5f607890123459"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-01-20T09:35:55.603Z"
+  },
+  "metadata": {
+    "isReopen": false
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f8f"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f44"
+  },
+  "actionType": "comment",
+  "actionDetails": {
+    "commentText": "Se necesita información adicional",
+    "userId": {
+      "$oid": "d01b2c3d4e5f607890123459"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-03-01T07:24:00.464Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f90"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f44"
+  },
+  "actionType": "comment",
+  "actionDetails": {
+    "commentText": "El usuario reporta error al cargar página",
+    "userId": {
+      "$oid": "c01b2c3d4e5f607890123458"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-01-27T10:32:24.799Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f91"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f44"
+  },
+  "actionType": "comment",
+  "actionDetails": {
+    "commentText": "El usuario reporta error al cargar página",
+    "userId": {
+      "$oid": "a01b2c3d4e5f607890123456"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-04-04T05:46:34.232Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f92"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f44"
+  },
+  "actionType": "assignment",
+  "actionDetails": {
+    "from": [],
+    "to": [
+      {
+        "$oid": "b01b2c3d4e5f607890123457"
+      }
+    ],
+    "userId": {
+      "$oid": "c01b2c3d4e5f607890123458"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-01-22T11:55:34.252Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f93"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f45"
+  },
+  "actionType": "creation",
+  "actionDetails": {
+    "from": null,
+    "to": "open",
+    "userId": {
+      "$oid": "c01b2c3d4e5f607890123458"
+    },
+    "commentText": "Ticket creado automáticamente"
+  },
+  "timestamp": {
+    "$date": "2024-04-01T23:29:31.948Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f95"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f45"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "open",
+    "to": "in_progress",
+    "userId": {
+      "$oid": "b01b2c3d4e5f607890123457"
+    }
+  },
+  "timestamp": {
+    "$date": "2024-10-05T00:18:18.189Z"
+  },
+  "metadata": {
+    "isReopen": false
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f96"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f45"
+  },
+  "actionType": "comment",
+  "actionDetails": {
+    "commentText": "El usuario reporta error al cargar página",
+    "userId": {
+      "$oid": "b01b2c3d4e5f607890123457"
+    }
+  },
+  "timestamp": {
+    "$date": "2024-05-04T17:57:38.614Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f97"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f45"
+  },
+  "actionType": "comment",
+  "actionDetails": {
+    "commentText": "Problema replicado en ambiente de testing",
+    "userId": {
+      "$oid": "b01b2c3d4e5f607890123457"
+    }
+  },
+  "timestamp": {
+    "$date": "2024-09-28T19:50:46.456Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f98"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f45"
+  },
+  "actionType": "comment",
+  "actionDetails": {
+    "commentText": "Esperando respuesta del cliente",
+    "userId": {
+      "$oid": "a01b2c3d4e5f607890123456"
+    }
+  },
+  "timestamp": {
+    "$date": "2024-10-20T06:06:20.333Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f99"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f45"
+  },
+  "actionType": "assignment",
+  "actionDetails": {
+    "from": [],
+    "to": [
+      {
+        "$oid": "b01b2c3d4e5f607890123457"
+      }
+    ],
+    "userId": {
+      "$oid": "a01b2c3d4e5f607890123456"
+    }
+  },
+  "timestamp": {
+    "$date": "2024-12-04T10:27:35.181Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f9a"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f46"
+  },
+  "actionType": "creation",
+  "actionDetails": {
+    "from": null,
+    "to": "open",
+    "userId": {
+      "$oid": "d01b2c3d4e5f607890123459"
+    },
+    "commentText": "Ticket creado automáticamente"
+  },
+  "timestamp": {
+    "$date": "2024-10-30T22:31:07.993Z"
+  },
+  "metadata": {}
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f9c"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f46"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "open",
+    "to": "in_progress",
+    "userId": {
+      "$oid": "d01b2c3d4e5f607890123459"
+    }
+  },
+  "timestamp": {
+    "$date": "2024-11-06T21:13:20.498Z"
+  },
+  "metadata": {
+    "isReopen": false
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f9d"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f46"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "in_progress",
+    "to": "rejected",
+    "userId": {
+      "$oid": "a01b2c3d4e5f607890123456"
+    }
+  },
+  "timestamp": {
+    "$date": "2024-11-07T08:45:02.548Z"
+  },
+  "metadata": {
+    "isReopen": false
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f9e"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f36"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "closed",
+    "to": "open",
+    "userId": {
+      "$oid": "a01b2c3d4e5f607890123456"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-12-01T10:15:30.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66f9f"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f39"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "closed",
+    "to": "in_progress",
+    "userId": {
+      "$oid": "b01b2c3d4e5f607890123457"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-09-15T14:20:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66fa0"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f3a"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "closed",
+    "to": "open",
+    "userId": {
+      "$oid": "c01b2c3d4e5f607890123458"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-07-01T09:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66fa1"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f3f"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "closed",
+    "to": "in_progress",
+    "userId": {
+      "$oid": "d01b2c3d4e5f607890123459"
+    }
+  },
+  "timestamp": {
+    "$date": "2024-12-15T16:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66fa2"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f40"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "closed",
+    "to": "open",
+    "userId": {
+      "$oid": "a01b2c3d4e5f607890123456"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-04-01T11:10:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66fa3"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f42"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "closed",
+    "to": "open",
+    "userId": {
+      "$oid": "b01b2c3d4e5f607890123457"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-08-10T13:25:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66fa4"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f43"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "closed",
+    "to": "in_progress",
+    "userId": {
+      "$oid": "c01b2c3d4e5f607890123458"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-04-15T08:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66fa5"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f33"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "rejected",
+    "to": "open",
+    "userId": {
+      "$oid": "d01b2c3d4e5f607890123459"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-10-01T15:55:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66fa6"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f34"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "rejected",
+    "to": "in_progress",
+    "userId": {
+      "$oid": "a01b2c3d4e5f607890123456"
+    }
+  },
+  "timestamp": {
+    "$date": "2024-09-01T12:05:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66fa7"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f41"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "rejected",
+    "to": "open",
+    "userId": {
+      "$oid": "b01b2c3d4e5f607890123457"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-02-15T17:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66fa8"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f46"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "rejected",
+    "to": "open",
+    "userId": {
+      "$oid": "c01b2c3d4e5f607890123458"
+    }
+  },
+  "timestamp": {
+    "$date": "2024-12-01T14:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66fa9"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f36"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "open",
+    "to": "closed",
+    "userId": {
+      "$oid": "d01b2c3d4e5f607890123459"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-12-10T18:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66faa"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f3a"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "in_progress",
+    "to": "closed",
+    "userId": {
+      "$oid": "a01b2c3d4e5f607890123456"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-07-15T10:20:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66fab"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f40"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "open",
+    "to": "closed",
+    "userId": {
+      "$oid": "b01b2c3d4e5f607890123457"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-05-01T13:35:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66fac"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f33"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "open",
+    "to": "closed",
+    "userId": {
+      "$oid": "c01b2c3d4e5f607890123458"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-11-01T09:50:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66fad"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f39"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "in_progress",
+    "to": "closed",
+    "userId": {
+      "$oid": "d01b2c3d4e5f607890123459"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-10-01T16:05:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66fae"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f42"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "open",
+    "to": "rejected",
+    "userId": {
+      "$oid": "a01b2c3d4e5f607890123456"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-09-01T11:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66faf"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f43"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "in_progress",
+    "to": "rejected",
+    "userId": {
+      "$oid": "b01b2c3d4e5f607890123457"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-05-15T14:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66fb0"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f3f"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "in_progress",
+    "to": "closed",
+    "userId": {
+      "$oid": "c01b2c3d4e5f607890123458"
+    }
+  },
+  "timestamp": {
+    "$date": "2025-01-01T08:25:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a284a08ec773fabf66fb1"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f34"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "open",
+    "to": "closed",
+    "userId": {
+      "$oid": "d01b2c3d4e5f607890123459"
+    }
+  },
+  "timestamp": {
+    "$date": "2024-10-01T15:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693d3f0276ab01b0554229a2"
+  },
+  "ticketId": {
+    "$oid": "693a284a08ec773fabf66f45"
+  },
+  "actionType": "state_change",
+  "actionDetails": {
+    "from": "in_progress",
+    "to": "closed"
+  },
+  "timestamp": {
+    "$date": "2025-04-01T10:27:35.181Z"
+  }
+}]
